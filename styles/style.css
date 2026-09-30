@@ -7,3 +7,8 @@ p {
 table {
     background-color: lightblue;
 }
+
+/* Prueba Sourcetree: estilo para el titulo principal */
+h1 {
+    color: darkblue;
+}
